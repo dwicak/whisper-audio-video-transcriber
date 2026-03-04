@@ -1,4 +1,4 @@
-# Whisper Video Transcriber
+# Whisper Audio Video Transcriber
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![OpenAI Whisper](https://img.shields.io/badge/OpenAI-Whisper-green)](https://github.com/openai/whisper)
