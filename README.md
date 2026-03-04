@@ -21,14 +21,14 @@ The tool automatically extracts the audio track from a video file, processes it 
 
 ## Features
 
-- 🎬 **Supports all major video formats** — MP4, MKV, AVI, MOV, WEBM, and more
-- 🔊 **Supports all major audio formats** — MP3, WAV, M4A, FLAC, OGG, and more
-- 🌐 **Automatic language detection** — or manually specify a language (e.g., Indonesian, English)
-- 📄 **Dual output** — generates both `.txt` transcript and `.srt` subtitle file
-- 🤖 **Two modes** — Local (offline, free) or OpenAI API (fast, cloud-based)
-- 🧠 **Multiple model sizes** — from `tiny` (fast) to `large` (most accurate)
-- 🔒 **Privacy-first** — Local mode keeps all data on your machine
-- ⚡ **Simple CLI** — easy to use from the terminal with minimal setup
+- **Supports all major video formats** — MP4, MKV, AVI, MOV, WEBM, and more
+- **Supports all major audio formats** — MP3, WAV, M4A, FLAC, OGG, and more
+- **Automatic language detection** — or manually specify a language (e.g., Indonesian, English)
+- **Dual output** — generates both `.txt` transcript and `.srt` subtitle file
+- **Two modes** — Local (offline, free) or OpenAI API (fast, cloud-based)
+- **Multiple model sizes** — from `tiny` (fast) to `large` (most accurate)
+- **Privacy-first** — Local mode keeps all data on your machine
+- **Simple CLI** — easy to use from the terminal with minimal setup
 
 ---
 
