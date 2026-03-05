@@ -4,7 +4,7 @@
 [![OpenAI Whisper](https://img.shields.io/badge/OpenAI-Whisper-green)](https://github.com/openai/whisper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A powerful command-line tool to automatically transcribe video and audio files into text using [OpenAI Whisper](https://github.com/openai/whisper). Designed for professionals who need to convert spoken content — such as training videos, briefings, meetings, and lectures — into searchable, editable text documents and subtitle files.
+A powerful command-line tool to automatically transcribe video and audio files into text using [OpenAI Whisper](https://github.com/openai/whisper). Designed for professionals who need to convert spoken content like training videos, briefings, meetings, and lectures into searchable, editable text documents and subtitle files.
 
 ---
 
