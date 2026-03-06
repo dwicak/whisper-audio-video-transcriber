@@ -1,6 +1,6 @@
 """
 Dibuat oleh : Darmawan Wicaksono
-Kontak email: darmawan.wicaksono@kemendikdasmen.goid
+Kontak email: d.wicaksono@gmail.com
 
 Video ke Text dengan OpenAI Whisper
 ====================================
